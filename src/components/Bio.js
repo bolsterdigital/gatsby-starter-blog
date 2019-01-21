@@ -31,8 +31,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              Written by <strong>{author}</strong> die directeur is van Bolster, iOS only probeert te werken en 'tijd bespaart' door van alles te programmeren met iOS Shortcuts.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Je kunt hem volgen op Twitter
