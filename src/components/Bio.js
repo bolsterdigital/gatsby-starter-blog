@@ -35,7 +35,7 @@ function Bio() {
               Francisco building useful things.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Je kunt hem volgen op Twitter
               </a>
             </p>
           </div>
