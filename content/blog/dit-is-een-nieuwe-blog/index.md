@@ -2,7 +2,7 @@
 title: Dit is een nieuwe blog
 date: 2019-01-05T14:22:22.121Z
 ---
-Dit is een nieuwe blogpost. Dat wordt nog wel wat. Hoera. Met een plaatje, van de Klimaatmars:
+Dit is een nieuwe blogpost. Met een plaatje, van de Klimaatmars.
 
 ![](https://bureaubolster.s3-eu-west-1.amazonaws.com/nwexnjzw29tf5a8kuafbw2vy3e8pejnu.png)
 
