@@ -2,7 +2,7 @@
 title: Dit is een nieuwe blog
 date: 2019-01-05T14:22:22.121Z
 ---
-Dit is een nieuwe blogpost. Met een plaatje, van de Klimaatmars.
+Dit is een nieuwe blogpost. Een test, met een plaatje, van de Klimaatmars. Of nou ja, van het aanmeldformulier op een van de campagnesites die we voor GroenLinks hebben gemaakt.
 
 ![](https://bureaubolster.s3-eu-west-1.amazonaws.com/nwexnjzw29tf5a8kuafbw2vy3e8pejnu.png)
 
