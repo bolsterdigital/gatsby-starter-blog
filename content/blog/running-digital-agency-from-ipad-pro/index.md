@@ -1,19 +1,25 @@
 ---
-title: Taking off the mittens – running a digital agency from an iPad Pro
+title: Taking off the mittens – going back to the future with an iPad Pro
 date: 2019-01-24
 ---
-As of 2019, dismissing the iPad as ‘unfit for real work’ or even ‘just for consuming content’ can safely be considered a tired cliché. But is the iPad Pro ready for prime time? Is it ready to be used as a sole means of production by anyone who does Serious Computing for a living? 
+As of 2019, dismissing the iPad as ‘unfit for real work’ or even ‘just for consuming content’ can arguably be considered a tired cliché. But is the iPad Pro ready for actual prime time? Can it be used as a sole means of production by someone who does Serious Computing for a living? 
 
-Well, I found myself sitting in front of a MacBook Pro setup with an external display, ignoring it, whilst frantically programming Shortcuts on my comparatively tiny iPhone screen, creating automated workflows for jobs I would otherwise be performing manually on my MacBook. I needed a new iPad. 
+These last few months, I increasingly often found myself sitting in front of an idle MacBook Pro (with external monitor, peripherals, the whole shebang), whilst frantically programming Shortcuts on my comparatively tiny iPhone screen. I was creating automated workflows for jobs I would otherwise be performing manually on my MacBook. I figured: a bigger iOS screen would be a welcome addition to my setup. 
 
-Moreover, in a less practical, more gut-feel-y sense, I wanted to experience *delightful computing* - the feeling you get when using FaceID, for example. The “whoa, I am living in the future” kind of feeling that only iOS seems to be able to provide. 
+Moreover, in a less practical, more gut-feel-y sense, I wanted to experience *delightful computing* - the feeling you get when using FaceID, for example. Hell, even the process of installing an app –any app – on iOS gives me the kind of “whoa, I am living in the future” feeling that only iOS seems to be able to provide. 
 
-Now that my late-2016-era MacBook Pro with TouchID is in for repairs (its *third* keyboard replacement) I decided to dive into the deep end and switch to iOS. So, I bought an iPad Pro.
+Well, now that my late-2016-era MacBook Pro with TouchID is in for repairs (and will be getting its *third* keyboard replacement due to Sticky Key Syndrome) I decided to dive into the deep end and switch to iOS. I did favor this MacBook Pro over any previous model if only for the sake of it having TouchID, allowing me to quickly log in to websites using 1Password. But whereas TouchID is still arguably the best premium hardware feature of the current generation of Apple laptops, it has long been replaced by TouchID on iOS. That is just plain *embarrassing*. 
+
+To put it bluntly: working on macOS feels like working in the past. I wanted to go back to the future, so I bought an iPad Pro.
 
 ![](https://bureaubolster.s3-eu-west-1.amazonaws.com/Photo-2019-01-24-10-20.jpeg)
 
 ## Mittens 
-I was weary of the idea of doing Real Work on an iPad. iOS gives me fewer but *better* tools. As for workflow automation, I love Hazel, Keyboard Maestro and Alfred on iOS, but I’m not enough of a programmer to figure out how to do API calls to Airtable, Netlify or other services I depend on and use the results for further processing. All that is a breeze on iOS, thanks to Shortcuts.
+Paraphrasing William Gibson: the future may be here, but it is not evenly distributed. 
+
+I was weary of the idea of doing Real Work on an iPad. As John Gruber ([Daring Fireball](https://daringfireball.net)) has said on several podcast episodes: working on an iPad feels like wearing mittens. I think a couple of factors come into play: certain tasks take more time, are impossible, *seem* impossible or have to be done in convoluted or inconsistent ways. 
+
+A scarcity of system-wide conventions for handling files or windows certainly does not help. But I do think many everyday tasks that appear to be cumbersome on iOS can actually be done more easily – if you take some time to set up alternative workflows.
 
 ![Mittens](https://bureaubolster.s3-eu-west-1.amazonaws.com/20r1edd2g168bhky6tuwwfq33bn2arkg.jpeg)
 
@@ -57,6 +63,6 @@ But it’s not all great. My main gripes:
 
 - OS-wise, the iPad isn’t really there yet. Software support on the second-most-popular hardware type on iOS, far behind the juggernaut that is the iPhone, is probably not high on Apple’s list of priorities. But I have high hopes for iOS 13. If Apple can give the Files and Shortcuts apps some love and improve multitasking, I am going to be a happy camper.
 - Ergonomics is kind of an issue. Typing for extended periods of time on a connected Smart Keyboard Folio thing or, God forbid, on the iPad’s virtual keyboard will hurt your neck, arms, upper back and probably your mental health to boot. An iPad stand and a separate Bluetooth keyboard will alleviate this issue to a great extent, but this setup introduces a new problem: you will repeatedly have to lift your arm in an awkard position to use the touchscreen. A keyboard will not suffice, and support for a Bluetooth trackpad is sorely lacking (I’m not sure how that would work, but it should be doable).
-- External keyboard support is not great. The FN key is absent on the Smart Keyboard Folio, there is no keyboard shortcut to invoke Siri (a voice command or reaching over to hold the power button is required), and there is no way to use a keyboard mode for two languages simultaneously, a mode that is seemingly only possible with the virtual SwiftKey keyboard. 
+- External keyboard support is not great. The FN key is absent on the Smart Keyboard Folio, there is no keyboard shortcut to invoke Siri (a voice command or reaching over to hold the power button is required), and there is no way to use a keyboard mode for two languages simultaneously, a mode that is seemingly only possible with the virtual SwiftKey keyboard. While I was typing this in iA Writer, the ‘single quote’ symbol would not respond when I pressed its key – it is somehow fixed again.
 
-All in all: it is still very early days, but it is good enough. I did not want to wait for Shortcuts and FaceID to come to MacOS, and probably until the next ARM-cpu-powered generation of MacBooks arrives, I won’t be looking back. 
+All in all: it is still very early days, but it is good enough. I did not want to wait for Shortcuts and FaceID to come to MacOS, and probably until the next ARM-cpu-powered generation of MacBooks arrives, I will not be looking back. 
