@@ -8,7 +8,8 @@ As of 2019, dismissing the iPad as ‘unfit for real work’ or even ‘just for
 
 These last few months, I increasingly often found myself sitting in front of an idle MacBook Pro (with external monitor, peripherals, the whole shebang), whilst frantically programming Shortcuts on my comparatively tiny iPhone screen. I was creating automated workflows for jobs I would otherwise be performing manually on my MacBook. I figured: a bigger iOS screen would be a welcome addition to my setup. 
 
-Moreover, in a less practical, more gut-feel-y sense, I wanted to experience *delightful computing* - the feeling you get when using FaceID, for example. Hell, even the process of installing an app –any app – on iOS gives me the kind of “whoa, I am living in the future” feeling that only iOS seems to be able to provide. 
+## Delightful computing
+Moreover, in a less practical, more gut-feel-y sense, I wanted to experience *delightful computing* - the feeling you get when using FaceID, for example. Hell, even the process of installing an app – *any* app – on iOS gives me the kind of “whoa, I am living in the future” feeling that only iOS seems to be able to provide nowadays. 
 
 Well, now that my late-2016-era MacBook Pro with TouchID is in for repairs (and will be getting its *third* keyboard replacement due to Sticky Key Syndrome) I decided to dive into the deep end and switch to iOS. I did favor this MacBook Pro over any previous model if only for the sake of it having TouchID, allowing me to quickly log in to websites using 1Password. But whereas TouchID is still arguably the best premium hardware feature of the current generation of Apple laptops, it has long been replaced by TouchID on iOS. That is just plain *embarrassing*. 
 
