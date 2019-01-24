@@ -25,7 +25,7 @@ A scarcity of system-wide conventions for handling files or windows certainly do
 
 Everyday tasks pose a challenge, though. Downloading an image from Unsplash, cropping and resizing it, optimizing it on [Tinypng.com](https://tinypng.com) and uploading it to a webserver is easy on MacOS if you know how to use websites. On iOS, however, the same procedure feels considerably slower – unless you automate it (using the TinyPNG API and [Dropshare](https://dropshare.app) which sends images to your Amazon S3 bucket and places the url on your clipboard). 
 
-Another example: creating a new Markdown file inside its enclosing folder in Working Copy felt like a chore. So I created a shortcut (see [my Twitter thread](https://twitter.com/jaapstronks/status/1088352712138391552?s=21) to automate this.
+Another example: creating a new Markdown file inside its enclosing folder in Working Copy felt like a chore. So I created a shortcut (see [my Twitter thread](https://twitter.com/jaapstronks/status/1088352712138391552?s=21) to automate this).
 
 So, whenever I feel like as if I’m ‘wearing mittens’ on my iPad Pro, I usually take a step back and think how I can automate whatever it is I’m trying to accomplish. 
 
