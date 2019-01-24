@@ -31,10 +31,10 @@ function Bio() {
               }}
             />
             <p>
-              Geschreven door <strong>{author}</strong> die directeur is van Bolster, iOS only werkt en woont in iOS Shortcuts.
+              Written by <strong>{author}</strong>, who runs <a href={`https://bureaubolster.nl`}>, a digital agency for non-profits and indie media publishers. He started working iOS-only and practically lives inside iOS Shortcuts.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                Je kunt hem volgen op Twitter
+                You can follow him on Twitter
               </a>.
             </p>
           </div>
