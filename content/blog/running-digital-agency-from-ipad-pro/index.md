@@ -4,6 +4,8 @@ date: 2019-01-24
 ---
 As of 2019, dismissing the iPad as ‘unfit for real work’ or even ‘just for consuming content’ can arguably be considered a tired cliché. But is the iPad Pro ready for actual prime time? Can it be used as a sole means of production by someone who does Serious Computing for a living? 
 
+![](https://bureaubolster.s3-eu-west-1.amazonaws.com/Photo-2019-01-24-10-20.jpeg)
+
 These last few months, I increasingly often found myself sitting in front of an idle MacBook Pro (with external monitor, peripherals, the whole shebang), whilst frantically programming Shortcuts on my comparatively tiny iPhone screen. I was creating automated workflows for jobs I would otherwise be performing manually on my MacBook. I figured: a bigger iOS screen would be a welcome addition to my setup. 
 
 Moreover, in a less practical, more gut-feel-y sense, I wanted to experience *delightful computing* - the feeling you get when using FaceID, for example. Hell, even the process of installing an app –any app – on iOS gives me the kind of “whoa, I am living in the future” feeling that only iOS seems to be able to provide. 
@@ -11,8 +13,6 @@ Moreover, in a less practical, more gut-feel-y sense, I wanted to experience *de
 Well, now that my late-2016-era MacBook Pro with TouchID is in for repairs (and will be getting its *third* keyboard replacement due to Sticky Key Syndrome) I decided to dive into the deep end and switch to iOS. I did favor this MacBook Pro over any previous model if only for the sake of it having TouchID, allowing me to quickly log in to websites using 1Password. But whereas TouchID is still arguably the best premium hardware feature of the current generation of Apple laptops, it has long been replaced by TouchID on iOS. That is just plain *embarrassing*. 
 
 To put it bluntly: working on macOS feels like working in the past. I wanted to go back to the future, so I bought an iPad Pro.
-
-![](https://bureaubolster.s3-eu-west-1.amazonaws.com/Photo-2019-01-24-10-20.jpeg)
 
 ## Mittens 
 Paraphrasing William Gibson: the future may be here, but it is not evenly distributed. 
