@@ -35,6 +35,9 @@ If you’re running a digital agency or doing Some kind of content creation, mar
 
 - Let’s start with the actual iPad Pro. I’d suggest the 11” with 256GB of storage. That’s plenty of room for local files, photos and some media - I keep most of my files in the cloud, including my media library, thanks to Dropbox and [Infuse](https://firecore.com/infuse). 
 - For typing on-the-go, Apple’s official [Smart Keyboard Folio](https://www.apple.com/shop/product/MU8G2LL/A/smart-keyboard-folio-for-11-inch-ipad-pro-us-english?referrer=https://www.google.nl/) is probably your best bet. It’s certainly an improvement over its previous incarnation. It serves as a case as well.
+
+![](https://bureaubolster.s3-eu-west-1.amazonaws.com/Photo-2019-01-24-13-33.JPG)
+
 - When doing serious work at a fixed location – your office desk – you will be better off with a separate Bluetooth Apple Keyboard. 
 - I’d also suggest an elevated stand (or some mounted solution like [this one](https://www.goos-e.com/en/)
 - Additionally, you could use a separate external monitor that mirrors your iPad screen, using a [USB-C Digital AV adapter](https://www.apple.com/shop/product/MJ1K2AM/A/usb-c-digital-av-multiport-adapter?referrer=https://www.google.nl/). 
