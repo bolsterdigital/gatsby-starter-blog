@@ -31,7 +31,7 @@ Another example: creating a new Markdown file inside its enclosing folder in Wor
 So, whenever I feel like as if I’m ‘wearing mittens’ on my iPad Pro, I usually take a step back and think how I can automate whatever it is I’m trying to accomplish. 
 
 ## Going in: recommended hardware
-If you’re running a digital agency, doing content creation, marketing or consultancy work, the iPad Pro will probably be well-suited to your needs. You will need a couple of things, though. Here’s a list of my suggestions for necessary hardware:
+If you’re running a digital agency or doing Some kind of content creation, marketing or consultancy work, the iPad Pro will probably be well-suited to your needs. You will need a couple of things, though. Here’s a list of my suggestions for necessary hardware:
 
 - Let’s start with the actual iPad Pro. I’d suggest the 11” with 256GB of storage. That’s plenty of room for local files, photos and some media - I keep most of my files in the cloud, including my media library, thanks to Dropbox and [Infuse](https://firecore.com/infuse). 
 - For typing on-the-go, Apple’s official [Smart Keyboard Folio](https://www.apple.com/shop/product/MU8G2LL/A/smart-keyboard-folio-for-11-inch-ipad-pro-us-english?referrer=https://www.google.nl/) is probably your best bet. It’s certainly an improvement over its previous incarnation. It serves as a case as well.
@@ -40,10 +40,10 @@ If you’re running a digital agency, doing content creation, marketing or consu
 - Additionally, you could use a separate external monitor that mirrors your iPad screen, using a [USB-C Digital AV adapter](https://www.apple.com/shop/product/MJ1K2AM/A/usb-c-digital-av-multiport-adapter?referrer=https://www.google.nl/). 
 - You could also consider purchasing an Apple Pencil. If you’re doing any kind of illustration work, it is a no-brainer. It’s also great for just rough sketching – and even audio editing apps like Ferrite offer support for the stylus.
 
-All combined, you will be confronted with a hefty price tag. But our aim is to replace a MacBook Pro (or iMac), which arguably makes it worth the investment.
+All combined, this requires a considerabel budget. But our aim is to replace a MacBook Pro (or iMac), which arguably makes it worth the investment.
 
-## Recommended software
-Alright, you will need a couple of well-crafted apps. Generally speaking, though, switching to iOS often requires you to take a step back and think about your workflows. Because programs and files tend to be more often out of your field of vision (and because the Files app isn’t that great yet), it will be necessary to create some structures and shortcuts. Here’s a couple of tips.
+## Recommended 
+Switching to iOS requires you to take a step back and think about your workflows. Because programs and files tend to be more often hidden from your field of vision (and because the Files app isn’t that great yet), it will be necessary to create some structures and shortcuts. Here’s a couple of tips.
 
 - Use Shortcuts. You can easily configure Shortcuts as Alfred-style task / app / website launchers, for example.
 - Install apps that offer great Shortcuts support or at least use URL schemes, such as Fantastical (calendars), Omnifocus or Things (task lists), Trello (project management), Working Copy (GIT client) and Spark. 
@@ -63,3 +63,5 @@ But it’s not all great. My main gripes:
 - External keyboard support is not great. The FN key is absent on the Smart Keyboard Folio, there is no keyboard shortcut to invoke Siri (a voice command or reaching over to hold the power button is required), and there is no way to use a keyboard mode for two languages simultaneously, a mode that is seemingly only possible with the virtual SwiftKey keyboard. While I was typing this in iA Writer, the ‘single quote’ symbol would not respond when I pressed its key – it is somehow fixed again.
 
 All in all: it is still very early days, but it is good enough. I did not want to wait for Shortcuts and FaceID to come to MacOS, and probably until the next ARM-cpu-powered generation of MacBooks arrives, I will not be looking back. 
+
+Are you going iOS-only as well? Follow me on Twitter, I’d love to hear your experiences and tips.
