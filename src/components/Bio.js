@@ -35,8 +35,8 @@ function Bio() {
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Je kunt hem volgen op Twitter
-              </a>
-            </p>.
+              </a>.
+            </p>
           </div>
         )
       }}
