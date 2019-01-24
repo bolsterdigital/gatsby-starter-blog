@@ -10,7 +10,7 @@ These last few months, I increasingly found myself sitting in front of an idle M
 
 Moreover, in a less practical, more gut-feel-y sense, I wanted to experience *delightful computing* - the feeling you get when using FaceID, for example. Hell, even the process of installing an app – *any* app – on iOS gives me the kind of “whoa, I am living in the future” feeling that only iOS seems to be able to provide nowadays. 
 
-Well, now that my late-2016-era MacBook Pro with TouchID is in for repairs (and will be getting its *third* keyboard replacement due to Sticky Key Syndrome) I decided to dive into the deep end and switch to iOS. I did favor this MacBook Pro over any previous model if only for the sake of it having TouchID, allowing me to quickly log in to websites using 1Password. But whereas TouchID is still arguably the best premium hardware feature of the current generation of Apple laptops, it has long been replaced by TouchID on iOS. That is just plain *embarrassing*. 
+Well, now that my late-2016-era MacBook Pro with TouchID is in for repairs (and will be getting its *third* keyboard replacement due to Sticky Key Syndrome) I decided to dive into the deep end and switch to iOS. I did favor this MacBook Pro over any previous model if only for the sake of it having TouchID, allowing me to quickly log in to websites using 1Password. But whereas TouchID is still arguably the best premium hardware feature of the current generation of Apple laptops, it has long been replaced by FaceID on iOS. That is just plain *embarrassing*, and it reinforces the image of macOS as a second-tier OS.
 
 To put it bluntly: working on macOS feels like working in the past. I wanted to go back to the future, so I bought an iPad Pro.
 
