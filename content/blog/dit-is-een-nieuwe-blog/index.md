@@ -1,6 +1,6 @@
 ---
 title: Dit is een nieuwe blog
-date: 2019-01-24T07:06:44+01:00
+date: 2019-01-24
 ---
 Dit is een nieuwe blogpost. Een test, met een plaatje, van de Klimaatmars. Of nou ja, van het aanmeldformulier op een van de campagnesites die we voor GroenLinks hebben gemaakt.
 
