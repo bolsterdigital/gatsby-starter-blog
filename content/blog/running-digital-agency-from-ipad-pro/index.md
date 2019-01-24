@@ -1,5 +1,5 @@
 ---
-title: Taking of the mittens: running a digital agency from an iPad Pro
+title: Taking off the mittens: running a digital agency from an iPad Pro
 date: 2019-01-24
 ---
 As of 2019, dismissing the iPad as ‘unfit for real work’ or even ‘just for consuming content’ can safely be considered a tired cliché. But is the iPad Pro ready for prime time? Is it ready to be used as a sole means of production by anyone who does Serious Computing for a living? 
