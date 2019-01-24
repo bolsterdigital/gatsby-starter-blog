@@ -16,7 +16,7 @@ Well, now that my late-2016-era MacBook Pro with TouchID is in for repairs (and 
 To put it bluntly: working on macOS feels like working in the past. I wanted to go back to the future, so I bought an iPad Pro.
 
 ## Mittens 
-Paraphrasing William Gibson: the future may be here, but it is not evenly distributed. 
+Paraphrasing William Gibson: the future may be here, but it is not evenly distributed. You do get the impression that the hardware was sent ahead, and the software should be coming along shortly.
 
 I was weary of the idea of doing Real Work on an iPad. As John Gruber ([Daring Fireball](https://daringfireball.net)) has said on several podcast episodes: working on an iPad feels like wearing mittens. I think a couple of factors come into play: certain tasks take more time, are impossible, *seem* impossible or have to be done in convoluted or inconsistent ways. 
 
